@@ -5,7 +5,7 @@
 
 This repository serves as a centralized and authenticated portfolio of my **professional certifications, course completions, and job simulation achievements**. It documents my commitment to continuous learning and skill development across core domains of modern technology.
 
-#Portfolio - Link : https://darling-clafoutis-310032.netlify.app/
+## Portfolio - Link : https://darling-clafoutis-310032.netlify.app/
 
 
 ## 🚀 Skills Snapshot
