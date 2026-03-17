@@ -43,9 +43,7 @@ The table below provides a detailed overview of my completed certifications, inc
 | **Python for Data Science and AI model** | IBM | Python for Data Science and AI model |
 ![Python-for-data-science-ai and development_page-0001](https://github.com/user-attachments/assets/f13fa7d0-5a44-4d67-970e-17da3dac6ed9)
 ![Prompt-Engineering_page-0001](https://github.com/user-attachments/assets/a2ae392f-b743-45b2-85b4-34b5a722db5c)
-
-| (https://github.com/Meet244323/Certificates-/blob/main/header2.png) |
-| **Prompt engineering** | IBM | Prompt engineering | 
+ 
 
 ## 💡 How to View Certificates
 
