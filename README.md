@@ -1,51 +1,134 @@
+# Hi 👋 I'm Meet_codeskillshub
 
-***
+💻 Full Stack Developer
 
-# 🏆 Validated Skills & Professional Certifications
+---
 
-This repository serves as a centralized and authenticated portfolio of my **professional certifications, course completions, and job simulation achievements**. It documents my commitment to continuous learning and skill development across core domains of modern technology.
+## 🚀 About Me
 
-## Portfolio - Link : https://darling-clafoutis-310032.netlify.app/
+Coder pushing beyond limits, always experimenting, learning, and building to reach beyond maximum potential as a developer
+
+- 🔭 GitHub Username: Meet244323
+- 📦 Public Repositories: 8
+- 👥 Followers: 0
+- ➡️ Following: 0
+
+---
+# 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- Hack
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+- SCSS
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-## 🚀 Skills Snapshot
 
-My credentials validate skills in the following key areas:
+---
 
-| Domain | Key Skills |
-| :--- | :--- |
-| **Cloud & IT** | AWS Cloud, IT Infrastructure, Cloud Computing |
-| **Artificial Intelligence** | AI Essentials, Deep Learning, Prompt Engineering |
-| **Web Development** | Frontend Development, JavaScript (DOM), Python Fundamentals |
-| **Data Analysis** | Data Analytics, Sales Data Analysis, LibreOffice Base Queries |
-| **Professional Development** | Interview Preparation, Resume Building, Job Simulations |
-| **Foundations** | Cybersecurity, Basic Mathematics |
 
-## 🌟 My Certificate Portfolio
 
-The table below provides a detailed overview of my completed certifications, including the issuing organization and a direct link to the proof of completion.
 
-| Certification Title | Issuer | Domain/Focus | Verification Link |
-| :--- | :--- | :--- | :--- |
-| **AWS Certificate** | AWS | Information Technology and AWS Cloud Fundamentals | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/AWS-certificate.pdf) |
-| **Foundation of Cybersecurity** | Google | Core concepts in Cybersecurity and threat defense | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Cybersecurity-certificate.pdf) |
-| **Google AI Essentials** | Google | Introduction to AI, ML, and Responsible AI practices | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/aiessentital-certificate.pdf) |
-| **AI for Everyone** | deeplearning.ai | Understanding the non-technical aspects of AI strategy | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/deeplearning.pdf) |
-| **Introduction to Frontend Development** | Meta | HTML, CSS, and basic concepts of web development | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/frontend-certificate.pdf) |
-| **Getting started with Python** | Michigan University | Python programming fundamentals and syntax | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header.png) |
-| **Prompt Engineering** | Coursera | Techniques for efficient and effective interaction with AI models | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header1.png) |
-| **Java DOM** | PACKT | Document Object Model manipulation using Java | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/javascript-certificate.pdf) |
-| **Analyze Sales Data with LibreOffice Base Queries** | Coursera | Data querying, reporting, and database analysis | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header4.png) |
-| **Data Analytics Virtual Job Simulation** | Deloitte | Practical application of data analytics in a business context | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header6.png) |
-| **Preparation of Interviews** | Coursera | Strategies and techniques for successful job interviews | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header3.png) |
-| **Building Professional Resume using Canva** | Coursera | Modern techniques for crafting an appealing resume | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header5.png) |
-| **Basic Mathematics** | Birla Institute | Fundamental mathematical principles | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header2.png) |
-| **Prompt Engineering** | IBM | Techniques for efficient and effective interaction with AI models | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Prompt-Engineering_page-0001.jpg) |
-| **Python for Data Science and AI development** | IBM | Learn about the AI Development | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Python-for-data-science-ai%20and%20development_page-0001.jpg) |
- 
+# 🌐 Connect With Me
 
-## 💡 How to View Certificates
+GitHub:
+https://github.com/Meet244323
 
-All certificates are stored within this repository. Clicking the **"View Certificate"** link will open the respective document or image file directly within the GitHub viewer.
+---
 
-Feel free to browse and review my professional development journey!
+![](https://komarev.com/ghpvc/?username=Meet244323&style=for-the-badge)
+
+---
+
+⭐ If you like my work, please give a ⭐ to my repositories.
+
+Made with ❤️ using GitHub README Generator.
+
+---
+
+# 📂 Featured Projects
+
+
+
+## Meet244323
+<p class="repo-description">
+    Frontend-focused developer exploring modern web, animations, and real‑world projects to push beyond limits as a programmer.
+</p>
+
+Language : N/A
+
+⭐ Stars : 0
+
+🍴 Forks : 0
+
+🔗 https://github.com/Meet244323/Meet244323
+
+---
+
+
+## Certificates-
+<p class="repo-description">
+    This repository serves as a centralized portfolio for my technical and professional certifications. It includes evidence of completion from various platforms (e.g., Coursera, AWS, Microsoft) and represents my commitment to continuous learning and skill validation.
+</p>
+
+Language : N/A
+
+⭐ Stars : 0
+
+🍴 Forks : 0
+
+🔗 https://github.com/Meet244323/Certificates-
+
+---
+
+
+## Truthlense-Extention
+<p class="repo-description">
+    TruthLense — a Chrome extension that scans images and estimates how likely they were generated by AI. Built using HTML, CSS, JavaScript.
+</p>
+
+Language : JavaScript
+
+⭐ Stars : 0
+
+🍴 Forks : 0
+
+🔗 https://github.com/Meet244323/Truthlense-Extention
+
+---
+
+
+## Marketing-tool
+<p class="repo-description">
+    A simple frontend design prototype of a Marketing Tool built using pure PHP (no backend integration yet). Includes basic UI layout, navigation, and placeholder pages for future features.
+</p>
+
+Language : Hack
+
+⭐ Stars : 0
+
+🍴 Forks : 0
+
+🔗 https://github.com/Meet244323/Marketing-tool
+
+---
+
+
+## Instagram-Journey
+<p class="repo-description">
+    During the social media 🅾  𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★ practice i made some project for an practice with just an frontend practice...
+</p>
+
+Language : HTML
+
+⭐ Stars : 0
+
+🍴 Forks : 0
+
+🔗 https://github.com/Meet244323/Instagram-Journey
+
+---
+
+                
