@@ -1,217 +1,50 @@
-# 👋 Hi, I'm Meet
+***
 
-### 💻 Full Stack Developer | Frontend Enthusiast | Creative Builder
+# 🏆 Validated Skills & Professional Certifications
 
-> 🚀 Building modern web experiences, experimenting with new technologies, and continuously pushing my limits as a developer.
+This repository serves as a centralized and authenticated portfolio of my **professional certifications, course completions, and job simulation achievements**. It documents my commitment to continuous learning and skill development across core domains of modern technology.
 
----
+## Portfolio - Link : https://darling-clafoutis-310032.netlify.app/
 
-## 🚀 About Me
 
-I'm a passionate developer who enjoys **building, experimenting, learning, and turning ideas into real-world projects**.
+## 🚀 Skills Snapshot
 
-* 🔭 GitHub: **[Meet244323](https://github.com/Meet244323)**
-* 💻 Full Stack & Frontend Development
-* 🎨 Interested in modern UI/UX & web animations
-* 🤖 Exploring AI-powered applications
-* 🌱 Always learning new technologies
-* 🧩 Love experimenting with creative projects
-* 🚀 Focused on becoming a better developer every day
+My credentials validate skills in the following key areas:
 
----
+| Domain | Key Skills |
+| :--- | :--- |
+| **Cloud & IT** | AWS Cloud, IT Infrastructure, Cloud Computing |
+| **Artificial Intelligence** | AI Essentials, Deep Learning, Prompt Engineering |
+| **Web Development** | Frontend Development, JavaScript (DOM), Python Fundamentals |
+| **Data Analysis** | Data Analytics, Sales Data Analysis, LibreOffice Base Queries |
+| **Professional Development** | Interview Preparation, Resume Building, Job Simulations |
+| **Foundations** | Cybersecurity, Basic Mathematics |
 
-# 💻 Tech Stack
+## 🌟 My Certificate Portfolio
 
-### 🌐 Frontend
+The table below provides a detailed overview of my completed certifications, including the issuing organization and a direct link to the proof of completion.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge\&logo=sass\&logoColor=white)
+| Certification Title | Issuer | Domain/Focus | Verification Link |
+| :--- | :--- | :--- | :--- |
+| **AWS Certificate** | AWS | Information Technology and AWS Cloud Fundamentals | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/AWS-certificate.pdf) |
+| **Foundation of Cybersecurity** | Google | Core concepts in Cybersecurity and threat defense | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Cybersecurity-certificate.pdf) |
+| **Google AI Essentials** | Google | Introduction to AI, ML, and Responsible AI practices | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/aiessentital-certificate.pdf) |
+| **AI for Everyone** | deeplearning.ai | Understanding the non-technical aspects of AI strategy | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/deeplearning.pdf) |
+| **Introduction to Frontend Development** | Meta | HTML, CSS, and basic concepts of web development | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/frontend-certificate.pdf) |
+| **Getting started with Python** | Michigan University | Python programming fundamentals and syntax | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header.png) |
+| **Prompt Engineering** | Coursera | Techniques for efficient and effective interaction with AI models | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header1.png) |
+| **Java DOM** | PACKT | Document Object Model manipulation using Java | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/javascript-certificate.pdf) |
+| **Analyze Sales Data with LibreOffice Base Queries** | Coursera | Data querying, reporting, and database analysis | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header4.png) |
+| **Data Analytics Virtual Job Simulation** | Deloitte | Practical application of data analytics in a business context | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header6.png) |
+| **Preparation of Interviews** | Coursera | Strategies and techniques for successful job interviews | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header3.png) |
+| **Building Professional Resume using Canva** | Coursera | Modern techniques for crafting an appealing resume | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header5.png) |
+| **Basic Mathematics** | Birla Institute | Fundamental mathematical principles | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/header2.png) |
+| **Prompt Engineering** | IBM | Techniques for efficient and effective interaction with AI models | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Prompt-Engineering_page-0001.jpg) |
+| **Python for Data Science and AI development** | IBM | Learn about the AI Development | [View Certificate](https://github.com/Meet244323/Certificates-/blob/main/Python-for-data-science-ai%20and%20development_page-0001.jpg) |
+ 
 
-### ⚙️ Backend & Programming
+## 💡 How to View Certificates
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+All certificates are stored within this repository. Clicking the **"View Certificate"** link will open the respective document or image file directly within the GitHub viewer.
 
-### 🛠️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-# 📂 Featured Projects
-
-## 🌐 Meet244323
-
-### Personal Developer Portfolio
-
-A frontend-focused developer portfolio showcasing modern web design, animations, experiments, and real-world projects.
-
-**Focus:** Frontend Development • UI/UX • Web Animations
-
-🔗 **[View Repository](https://github.com/Meet244323/Meet244323)**
-
----
-
-## 🏆 Certificates
-
-### Technical & Professional Certifications
-
-A centralized collection of technical and professional certifications from different learning platforms and organizations.
-
-**Focus:** Continuous Learning • Skill Development • Certifications
-
-🔗 **[View Repository](https://github.com/Meet244323/Certificates-)**
-
----
-
-## 🔍 TruthLense Extension
-
-### AI Image Detection Chrome Extension
-
-A Chrome extension that analyzes images and estimates the likelihood of whether an image was generated using AI.
-
-**Tech:** HTML • CSS • JavaScript
-
-✨ **Features**
-
-* 🖼️ Image analysis
-* 🤖 AI-generated image detection
-* 🌐 Chrome Extension
-* ⚡ Lightweight frontend
-
-🔗 **[View Repository](https://github.com/Meet244323/Truthlense-Extention)**
-
----
-
-## 📈 Marketing Tool
-
-### Marketing Dashboard UI Prototype
-
-A frontend-focused marketing tool prototype built to explore dashboard layouts, navigation, and modern web interfaces.
-
-**Tech:** PHP • HTML • CSS
-
-✨ **Features**
-
-* 📊 Dashboard interface
-* 🧭 Navigation system
-* 📄 Multiple UI pages
-* 🎨 Modern frontend design
-
-🔗 **[View Repository](https://github.com/Meet244323/Marketing-tool)**
-
----
-
-## 📸 Instagram Journey
-
-### Social Media UI Practice Project
-
-A frontend practice project inspired by Instagram, created to improve skills in building social-media-style interfaces.
-
-**Tech:** HTML • CSS • Frontend Development
-
-✨ **Focus**
-
-* 🎨 UI Design
-* 📱 Responsive Layout
-* 🧩 Component-based thinking
-* 🌐 Frontend Practice
-
-🔗 **[View Repository](https://github.com/Meet244323/Instagram-Journey)**
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meet244323&theme=tokyonight" width="100%" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meet244323&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meet244323&theme=tokyonight" width="49%" />
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Meet244323&theme=tokyonight&hide_border=true" width="70%" />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meet244323&theme=tokyo-night&hide_border=true" width="100%" />
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-* ⚡ Advanced JavaScript
-* 🎨 Modern UI/UX
-* 🌐 Full Stack Development
-* 🤖 Artificial Intelligence
-* 🔧 Backend Development
-* 🚀 Web Performance
-* 📱 Responsive Web Design
-
----
-
-# 🎯 Goals
-
-* 🚀 Build production-ready applications
-* 💡 Create innovative web experiences
-* 🤖 Explore AI + Web Development
-* 🌍 Contribute to open-source projects
-* 📚 Continuously improve programming skills
-* 💼 Grow as a professional software developer
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Meet244323">
-<img src="https://img.shields.io/badge/GitHub-Meet244323-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Meet244323&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Code • Create • Experiment • Repeat
-
-⭐ If you like my projects, consider giving them a star!
-
-**Made with ❤️ by Meet**
-
-</p>
+Feel free to browse and review my professional development journey!
