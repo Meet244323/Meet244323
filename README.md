@@ -47,4 +47,51 @@ The table below provides a detailed overview of my completed certifications, inc
 
 All certificates are stored within this repository. Clicking the **"View Certificate"** link will open the respective document or image file directly within the GitHub viewer.
 
+## 📊 GitHub Activity Dashboard
+
+> A live snapshot of my coding consistency, contribution activity, and GitHub streak.
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<a href="https://github.com/Meet244323">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meet244323&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</a>
+
+<br><br>
+
+### 📈 Contribution Graph
+
+<a href="https://github.com/Meet244323">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meet244323&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+</a>
+
+<br><br>
+
+### 🏆 GitHub Statistics
+
+<a href="https://github.com/Meet244323">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Meet244323&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" />
+</a>
+
+<a href="https://github.com/Meet244323">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meet244323&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+</a>
+
+</div>
+
+### 🎯 Activity Overview
+
+| Metric                    | What It Represents                              |
+| :------------------------ | :---------------------------------------------- |
+| 🔥 **Current Streak**     | Consecutive days with GitHub activity           |
+| 🏆 **Longest Streak**     | My highest recorded contribution streak         |
+| 📈 **Contribution Graph** | Visual history of my GitHub activity            |
+| 💻 **Repositories**       | Projects and technical work published on GitHub |
+| 🧠 **Top Languages**      | Programming languages I use most frequently     |
+
+> **Consistency > intensity.** This dashboard tracks my continuous learning, project development, and contribution activity over time.
+
+
 Feel free to browse and review my professional development journey!
